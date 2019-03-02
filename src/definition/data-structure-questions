@@ -109,10 +109,21 @@ under a common heading or a variable name. While a linked list
 is a data structure which contains a sequence of the elements where each element is linked to its next element.
 
 What is DFS and BFS?
+Ans. The breadth first search (BFS) and
+the depth first search (DFS) are the two algorithms used for traversing and searching a node in a graph.
 What is Recursion?
+Ans. Recursion in computer science is a method of solving a
+problem where the solution depends on solutions to smaller instances of the same problem.
 What are linear and non linear data Structures?
+Ans. In the linear data structure, the data is organized in a linear order in which
+elements are linked one after the other. ... Examples of the linear data structure are
+ array, queue, stack, linked list, etc. In contrast, tree and graph are the examples of the non-linear data structure.
 What is Big-(O)-notation?
-Outlined different kind of sorting algorithm with time complexity?
+Ans. Big O notation is used in Computer Science to describe the performance or complexity of an algorithm.
+Big O specifically describes the worst-case scenario,
+and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
+
+
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
   a)In terms of Accessing element.
